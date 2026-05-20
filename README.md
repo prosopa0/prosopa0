@@ -7,9 +7,9 @@ I'm a full stack dev, I spend alot of time on AI/ML, game modding, and reverse e
 * Windows Internals & memory management
 
 ### Stack
-* **Languages:** C++, Python, JavaScript/TypeScript
+* **Languages:** C++, Python
 * **ML/AI:** PyTorch, TensorFlow
-* **Environment:** Linux, Git
+* **Environment:** Windows, Git
 
 ---
 
